@@ -4,3 +4,4 @@ This repository is primarily created for myself, to store various important thin
 FILES:
 
 - functionPointer: example how to use function pointers
+- Git: examples how to use Git (suddenly)
