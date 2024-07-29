@@ -1,0 +1,5 @@
+1. https://www.youtube.com/watch?v=lWzFFusYg6g - Raspberry Pi Kernel Development | Writing a Raspberry Pi ARM GPIO Driver in C | Embedded Concepts
+
+2.https://www.youtube.com/watch?v=9vsu67uMcko&list=PLEBQazB0HUyTpoJoZecRK6PpDG31Y7RPB - Introduction to Embedded Linux Part 1 - Buildroot | Digi-Key Electronics (цикл видео)
+
+3. https://habr.com/ru/companies/ruvds/articles/681880/ - Пособие по программированию модулей ядра Linux (цикл статей)
